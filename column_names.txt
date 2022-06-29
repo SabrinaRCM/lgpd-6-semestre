@@ -1,0 +1,5 @@
+nome,0
+documento,0
+email,0
+cep,1
+cidade,1
